@@ -5585,3 +5585,12 @@ body > * {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; }
+
+.headerStyle {
+  color: #22787A; }
+
+.btn-styleLT {
+  background-color: #22787A; }
+
+.btn-styleRT {
+  background-color: #D54256; }
